@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "iTechnoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "iAerovane.aternos.me",
+    "port": 62320,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to iAerovane!",
         "I like to play Minecraft!"
       ]
     },
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 1000
     },
     "look-around": {
       "enabled": true,
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1509951864798711940/wMFcuZkOmVteAKYlunMevQ7230w4zjmx4N0t_AcoQBmc8cqN3ruBhzsRXwrOsvDYyWqQ",
     "events": {
       "connect": true,
       "disconnect": true,
