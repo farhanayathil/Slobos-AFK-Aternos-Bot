@@ -33,7 +33,7 @@
       "messages": [
         "I'm a minecraft lover",
         "Is there anyone to play with me in this server!",
-        "Ok , i will spend time here alone!"
+        "Ok ,then i will spend time here alone!"
       ]
     },
     "chat-log": true,
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 6230
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 14750
     }
   },
   "modules": {
