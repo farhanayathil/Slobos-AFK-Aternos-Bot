@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
